@@ -1,0 +1,50 @@
+COMMANDS ->
+	
+	wc  -> word count
+		-c  -> count the bytes/size
+		-m  -> count the characters
+		-l  -> count the lines
+		-w  -> count the words
+		-L  -> MAX line lenght
+	if u only use "wc" it'll give u the following: -l -w -m
+	
+	less -> open bigger files and read them by scrolling and not just vomit it on the terminal
+	
+	head -> first 5 lines of a file
+		-n x  -> x has to be the number of lines u want to see
+	
+	tail -> last 5 lines of a file
+		-n x  -> x has to be the number of lines u want to see
+		
+	kill -> if any program stops working u'll stop the program
+		use "ps aux" to find the program id
+		and then use "grep  firefox"
+		u can do it all in one line with a pipeline -> ps aux | grep firefox
+		
+IN DEAPTH
+
+	echo :to say smt on the terminal
+		{x..y} i'll print from x to y, x e y podem ser letras e numeros, dentro de cada {} tem que ser o mesmo type. Podem combinar os 2 da seguinte maneira: echo {A..B}{1..2}
+		
+		it would print:
+			A1 A2 B1 B2
+			
+		-n -> will not print on new line
+		-b  -> enter the backslash interpreter
+			\b Backspace
+			\\ Backslash
+			\n New line
+			\r Carriage return
+			\t Horizontal tab
+			\v vertical tab
+	greo:
+		-c  -> count all the matches
+		-w  -> match only whole words
+		-x  -> match only whole lines
+		
+VARIABLES
+	explicit way: VAR=value
+	read command: read VAR (and then write anything)
+	command substution: VAR=$(command here)
+	
+	
