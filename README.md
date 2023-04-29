@@ -16,5 +16,5 @@ If you have any questions or concerns, please feel free to contact me at the con
 
 ## License
 
-These projects are licensed under the GNU General Public License. See the (LICENSE)[LICENSE] file for more information.
+These projects are licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for more information.
 
