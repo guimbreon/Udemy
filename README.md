@@ -4,9 +4,7 @@ This is the public repository for my Udemy course projects, where I will be shar
 
 ## Courses
 
-1. [Intermediate Python Immersive Training](https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/): In this course I got better at making generator, modules and packages in Python. In the end of this course I got a [certificate](https://www.udemy.com/certificate/UC-e1276dba-4094-4244-827b-f7390872b305/).
-2. [Course 2](course2/): [Short description of the course]
-3. [Course 3](course3/): [Short description of the course]
+1. [Intermediate Python Immersive Training](https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/): In this course I got better at making generator, modules and packages in Python. [Certificate](https://www.udemy.com/certificate/UC-e1276dba-4094-4244-827b-f7390872b305/).
 
 ## Contributing
 
