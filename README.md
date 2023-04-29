@@ -10,10 +10,6 @@ This is the public repository for my Udemy course projects, where I will be shar
 
 Contributions to this repository are not currently being accepted. This is a personal repository.
 
-## License
-
-The code in this repository is licensed under the [insert license here] license. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or concerns, please feel free to contact me at the contacts on my github main page.
