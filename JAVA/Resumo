@@ -1,0 +1,18 @@
+Double vs Float:
+
+	Float: Low Accuracy
+		6 Decimal digits
+		Storage size : 32
+		
+	Double: High Accuracy
+		15 Decimal digits
+		Storage size : 64
+		
+	
+Char vs String:
+	Char : Holds one, and only one character
+		Literal enclosed in Single Quotes
+		
+		
+	String: Can hold multiple characyers
+		Literal enclosed in Double Quotes
