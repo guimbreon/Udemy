@@ -8,16 +8,25 @@ This is the public repository for my Udemy course projects, where I will be shar
 
 2. [Complete Java Developer Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/): In this course I learned the language Java:
 
-	    The essential Java keywords, operators, statements, and expressions
-	    Understanding of Java classes, polymorphism, and inheritance
-	    Downloading and installing necessary coding tools
-	    Object-oriented programming and the Java API
-	    Developing Java applications using IntelliJ IDEA
-	    Transitioning to core Java technologies like Android development, Spring framework, Java EE, and more
-	    Core Java skills to become employable as a Java developer
-	    Explanation of core concepts, programming terms, and buzzwords in Java
-	    Challenges to reinforce learning and real-world application of concepts
-	    Mastering Java programming regardless of your current experience level
+	    -The essential Java keywords, operators, statements, and expressions
+	    
+	    -Understanding of Java classes, polymorphism, and inheritance
+	    
+	    -Downloading and installing necessary coding tools
+	    
+	    -Object-oriented programming and the Java API
+	    
+	    -Developing Java applications using IntelliJ IDEA
+	    
+	    -Transitioning to core Java technologies like Android development, Spring framework, Java EE, and more
+	    
+	    -Core Java skills to become employable as a Java developer
+	    
+	    -Explanation of core concepts, programming terms, and buzzwords in Java
+	    
+	    -Challenges to reinforce learning and real-world application of concepts
+	    
+	    -Mastering Java programming regardless of your current experience level
         
 ## Contributing
 
