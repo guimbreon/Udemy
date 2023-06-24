@@ -8,6 +8,8 @@ This is the public repository for my Udemy course projects, where I will be shar
 
 2. [Complete Java Developer Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/): In this course I learned the language Java -->
 
+
+
     -Mastering Java programming regardless of your current experience level
     -The essential Java keywords, operators, statements, and expressions
     -Understanding of Java classes, polymorphism, and inheritance
@@ -18,6 +20,8 @@ This is the public repository for my Udemy course projects, where I will be shar
     -Core Java skills to become employable as a Java developer
     -Explanation of core concepts, programming terms, and buzzwords in Java
     -Challenges to reinforce learning and real-world application of concepts
+ 
+ 
  
 ## Contributing
 
