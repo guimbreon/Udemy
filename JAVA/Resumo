@@ -16,3 +16,15 @@ Char vs String:
 		
 	String: Can hold multiple characyers
 		Literal enclosed in Double Quotes
+		
+		
+Métodos:
+
+public static datatype name(){
+	CODE BLOCK;
+	return smt; //apenas usado se nao usarmos o void
+}
+
+datatype: void -> nada vai voltar para o main
+	outra opção é usar int, boolean, double, etc, depende do tipo de variavel que queres retornar
+
