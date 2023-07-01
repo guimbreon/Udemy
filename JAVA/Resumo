@@ -28,3 +28,7 @@ public static datatype name(){
 datatype: void -> nada vai voltar para o main
 	outra opção é usar int, boolean, double, etc, depende do tipo de variavel que queres retornar
 
+
+WHILE VS DO WHILE:
+
+	A maior diferença é que o do while executa pelo menos uma vez o código, enquanto o while só executa se o statment do while for verdadeira.
