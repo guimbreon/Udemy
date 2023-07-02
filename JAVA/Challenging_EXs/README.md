@@ -2,6 +2,12 @@
 
 Here are the best exercises from the course (according to me of course)
 
+
+## Table of Contents
+- [Coding Exercise 24](#coding-exercise-24)
+- [Coding Exercise 29](#coding-exercise-29)
+
+
 ## [Coding Exercise 24](../Section6/src/CodingExercise24.java):
 
 Write a method called numberToWords with one int parameter named number.
@@ -150,3 +156,4 @@ NOTE: Use the method Math.ceil to round the number of calculated buckets (double
 NOTE: All methods should be defined as public static like we have been doing so far in the course.
 
 NOTE: Do not add the main method to the solution code.
+
