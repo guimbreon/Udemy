@@ -1,1 +1,1 @@
-Course complete by 7hrs and 12 minutes <--> 118hrs and 30 minutes
+Course complete by 10hrs and 15 minutes <--> 120hrs
