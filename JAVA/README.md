@@ -1,1 +1,3 @@
-Course complete by 10hrs and 15 minutes <--> 120hrs + all the exercises
+Course complete by 12hrs 47mns <--> 120hrs + all the exercises
+
+UpTo: Exercise 32 in OOP 1

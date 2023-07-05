@@ -1,5 +1,4 @@
-
-l\public class Coding_Exercise30 {
+public class Coding_Exercise30 {
     private double firstNumber;
     private double secondNumber;
 
