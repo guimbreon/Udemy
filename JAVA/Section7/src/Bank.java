@@ -27,7 +27,7 @@ public class Bank {
 
     public Bank(){
         this(100,"invalid name",
-                "invalid email",123456789,123)
+                "invalid email",123456789,123);
         System.out.println("Empty constructor called");
     }
 
