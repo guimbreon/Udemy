@@ -4,7 +4,7 @@ public class calculator {
     private floor floor;
     private carpet carpet;
 
-    public calculator(Floor floor, Carpet carpet) {
+    public calculator(floor floor, carpet carpet) {
         this.floor = floor;
         this.carpet = carpet;
     }
