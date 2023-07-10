@@ -1,6 +1,6 @@
-Course complete by 49hrs and 41mns <--> 120hrs + all the exercises ( 40,875% ) 
+Course complete by 50hrs and 14mns <--> 120hrs + all the exercises ( 41,71% ) 
 
-change since last update = +0,5%
+change since last update = +0,7%
 
-UpTo: coding exercise 38
+UpTo: coding exercise 39
 	and ALL of JAVA 11 part.
