@@ -1,5 +1,6 @@
-Course complete by 14hrs and 4mns <--> 120hrs + all the exercises ( 11,72% ) 
+Course complete by 49hrs and 41mns <--> 120hrs + all the exercises ( 40,875% ) 
 
-change = +1,07%
+change since last update = +0,5%
 
-UpTo: Exercise 35 in OOP 1
+UpTo: coding exercise 38
+	and ALL of JAVA 11 part.

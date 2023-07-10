@@ -32,3 +32,21 @@ datatype: void -> nada vai voltar para o main
 WHILE VS DO WHILE:
 
 	A maior diferença é que o do while executa pelo menos uma vez o código, enquanto o while só executa se o statment do while for verdadeira.
+	
+String formating:
+	\t  -> tab
+	\n  -> new line
+	\"  ->insert double quote character
+	\\ -> Inser backlash character
+	\u2022  -> to make bullet points
+	
+	you can use """  texto aqui
+				e aqui
+					e aqui"""
+	or:
+	"text here" + "and here" + "and here"
+	
+	
+	you can format it like you do in C language:
+		int age = 34;
+		System.out.println("Your age is %d", age)
