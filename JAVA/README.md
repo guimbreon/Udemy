@@ -1,6 +1,6 @@
-Course complete by 50hrs and 52mns <--> 122hrs and  9mns + all the exercises ( 41,64% ) 
+Course complete by 52hrs and 25mns <--> 122hrs + all the exercises ( 42,96% ) 
 
-change since last update = +0,5%
+change since last update = +1,32%
 
 UpTo: Polymorphism part2
 	and ALL of JAVA 11 part.
